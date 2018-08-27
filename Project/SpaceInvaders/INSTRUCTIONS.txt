@@ -1,0 +1,5 @@
+To direct the Destroyer ship, enter 'l' for left, or 'r' for right.
+Enter an integer for how far you would like to move the Ship.
+Enter 0 if you do not want to move the Destroyer Ship any amount.
+Enter 'y' to fire or 'n' to not fire.
+Every time you fire, a new row of invaders will be generated!

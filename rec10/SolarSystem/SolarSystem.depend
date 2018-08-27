@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1509753735 source:/home/user/Dropbox/my_dir/rec10/SolarSystem/planet.cpp
+	"planet.h"
+
+1509753867 /home/user/Dropbox/my_dir/rec10/SolarSystem/planet.h
+	<string>
+	<iostream>
+
+1509753674 source:/home/user/Dropbox/my_dir/rec10/SolarSystem/solarSystem.cpp
+	"solarSystem.h"
+	"planet.h"
+	<math.h>
+
+1509753993 /home/user/Dropbox/my_dir/rec10/SolarSystem/solarSystem.h
+	<string>
+	<iostream>
+	"planet.h"
+
+1509754441 source:/home/user/Dropbox/my_dir/rec10/SolarSystem/main.cpp
+	<iostream>
+	"planet.h"
+	"solarSystem.h"
+	<math.h>
+

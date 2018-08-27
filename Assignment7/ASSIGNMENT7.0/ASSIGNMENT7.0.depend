@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1509738487 source:/home/user/Dropbox/my_dir/Assignment7/ASSIGNMENT7.0/main.cpp
+	<iostream>
+	<fstream>
+	"SpellChecker.h"
+	"WordCounts.h"
+
+1509725936 /home/user/Dropbox/my_dir/Assignment7/ASSIGNMENT7.0/SpellChecker.h
+	<iostream>
+
+1509733620 /home/user/Dropbox/my_dir/Assignment7/ASSIGNMENT7.0/WordCounts.h
+	<iostream>
+
+1509728020 source:/home/user/Dropbox/my_dir/Assignment7/ASSIGNMENT7.0/SpellChecker.cpp
+	<iostream>
+	<fstream>
+	"SpellChecker.h"
+
+1509739399 source:/home/user/Dropbox/my_dir/Assignment7/ASSIGNMENT7.0/WordCounts.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"WordCounts.h"
+	"SpellChecker.h"
+
